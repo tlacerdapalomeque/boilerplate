@@ -5,6 +5,12 @@
       "password": "$2a$10$HpiaLAYQZv0/izRxOXzVcuuUf4kBWMVJR2tnmSSQ95K5cau7RwblW",
       "name": "Example User",
       "id": 1
+    },
+    {
+      "email": "gmartorell@altimetrik.com",
+      "password": "$2a$10$ZG9sviUj1R7u.ePAPKiVeOzJQ88Z0O9JS4GAs2m/UYypyuw8h4Ax6",
+      "name": "Guillermo Martorell",
+      "id": 2
     }
   ]
 }
